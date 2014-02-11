@@ -130,8 +130,7 @@ JB :
 
 prose:
   #rooturl: '_posts'
-  siteurl: 'http://USERNAME.github.io/my-first-prose/'
-  relativeLinks: 'http://USERNAME.github.io/my-first-prose/links.jsonp'
+  siteurl: 'http://atskimura.github.io/my-first-prose/'
   media: 'media'
   metadata:
     _posts:
